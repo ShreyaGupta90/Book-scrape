@@ -1,4 +1,4 @@
-bbn# Book Data Scraping Project 📚
+bn# Book Data Scraping Project 📚
 
 ## Overview
 This project involves extracting book data from the website *"Books to Scrape"* through web scraping. The dataset contains details such as book names, ratings, and prices. This information is gathered from 50 pages, with a total of 1000 books.
